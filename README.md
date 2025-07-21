@@ -8,8 +8,8 @@ A comprehensive Flutter messaging application with real-time video and voice cal
 
 ## 📥 **DOWNLOAD APK - READY TO INSTALL!**
 
-### **🚀 Latest Release: v2.0.0 COMPLETE**
-**Direct Download**: [`JP-Chat-Talk-Fun-Chat-v2.0.0-COMPLETE.apk`](./JP-Chat-Talk-Fun-Chat-v2.0.0-COMPLETE.apk) **(20 MB)**
+### **🚀 Latest Release: v2.0.0 WORKING**
+**Direct Download**: [`JP-Chat-Talk-Fun-Chat-v2.0.0-WORKING.apk`](./JP-Chat-Talk-Fun-Chat-v2.0.0-WORKING.apk) **(18 MB)**
 
 ### ✅ **WHAT'S NEW IN v2.0.0:**
 - ✅ **Correct App Name**: Now displays "JP Chat Talk,Fun,Chat" throughout the app
