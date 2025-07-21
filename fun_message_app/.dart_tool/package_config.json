@@ -560,54 +560,6 @@
       "languageVersion": "2.12"
     },
     {
-      "name": "shared_preferences",
-      "rootUri": "file:///home/ubuntu/.pub-cache/hosted/pub.dev/shared_preferences-2.2.3",
-      "packageUri": "lib/",
-      "languageVersion": "3.1"
-    },
-    {
-      "name": "shared_preferences_android",
-      "rootUri": "file:///home/ubuntu/.pub-cache/hosted/pub.dev/shared_preferences_android-2.2.2",
-      "packageUri": "lib/",
-      "languageVersion": "3.2"
-    },
-    {
-      "name": "shared_preferences_foundation",
-      "rootUri": "file:///home/ubuntu/.pub-cache/hosted/pub.dev/shared_preferences_foundation-2.5.3",
-      "packageUri": "lib/",
-      "languageVersion": "3.3"
-    },
-    {
-      "name": "shared_preferences_linux",
-      "rootUri": "file:///home/ubuntu/.pub-cache/hosted/pub.dev/shared_preferences_linux-2.4.1",
-      "packageUri": "lib/",
-      "languageVersion": "3.3"
-    },
-    {
-      "name": "shared_preferences_platform_interface",
-      "rootUri": "file:///home/ubuntu/.pub-cache/hosted/pub.dev/shared_preferences_platform_interface-2.4.1",
-      "packageUri": "lib/",
-      "languageVersion": "3.2"
-    },
-    {
-      "name": "shared_preferences_web",
-      "rootUri": "file:///home/ubuntu/.pub-cache/hosted/pub.dev/shared_preferences_web-2.4.1",
-      "packageUri": "lib/",
-      "languageVersion": "3.3"
-    },
-    {
-      "name": "shared_preferences_windows",
-      "rootUri": "file:///home/ubuntu/.pub-cache/hosted/pub.dev/shared_preferences_windows-2.4.1",
-      "packageUri": "lib/",
-      "languageVersion": "3.3"
-    },
-    {
-      "name": "shimmer",
-      "rootUri": "file:///home/ubuntu/.pub-cache/hosted/pub.dev/shimmer-3.0.0",
-      "packageUri": "lib/",
-      "languageVersion": "2.17"
-    },
-    {
       "name": "sky_engine",
       "rootUri": "file:///opt/flutter/bin/cache/pkg/sky_engine",
       "packageUri": "lib/",
@@ -779,10 +731,10 @@
       "name": "fun_message_app",
       "rootUri": "../",
       "packageUri": "lib/",
-      "languageVersion": "3.3"
+      "languageVersion": "3.1"
     }
   ],
-  "generated": "2025-07-21T16:59:36.510137Z",
+  "generated": "2025-07-21T17:16:18.833557Z",
   "generator": "pub",
   "generatorVersion": "3.3.4"
 }

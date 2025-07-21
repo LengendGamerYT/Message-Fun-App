@@ -1,1 +1,0 @@
- /workspace/fun_message_app/.dart_tool/flutter_build/fda57ad2215369453b4cbec3e09a46a4/native_assets.yaml: 
