@@ -1,0 +1,44 @@
+# Large files
+*.zip
+*.tar.gz
+*.dmg
+*.pkg
+*.deb
+*.rpm
+
+# Android command line tools
+commandlinetools-*.zip
+
+# Build artifacts
+**/build/
+**/android/app/build/
+**/ios/build/
+**/linux/build/
+**/macos/build/
+**/windows/build/
+**/.dart_tool/
+**/android/.gradle/
+**/android/local.properties
+**/ios/Flutter/Generated.xcconfig
+**/ios/Flutter/flutter_export_environment.sh
+**/macos/Flutter/ephemeral/
+**/linux/flutter/ephemeral/
+**/windows/flutter/ephemeral/
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
